@@ -1,0 +1,27 @@
+List<Map<String,dynamic>>Tasks=[
+  {
+    "main":86.03,
+    "second":66.18,
+    "text":"محرم",
+  },
+  {
+    "main":77.76,
+    "second":59.56,
+    "text":"صفر",
+  },
+  {
+    "main":97.61,
+    "second":74.45,
+    "text":"ربيع1",
+  },
+  {
+    "main":90.16,
+    "second":68.66,
+    "text":"ربيع 2",
+  },
+  {
+    "main":104.5,
+    "second":86.03,
+    "text":"جماد1",
+  },
+];
